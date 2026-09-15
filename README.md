@@ -51,13 +51,39 @@ THICK: RET
 THIN:RET
 END
 
+
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+OUTPUT Input: 05H Output: 78H
+
+In Keil, after execution:
+
+Memory Location 4500H : 05H Memory Location 4501H : 78H
+
+So,
+
+5! = 120 (decimal) = 78H
+
 
 ---
 MANUAL CALCULATIONS
+MANUAL CALCULATIONS Given number = 5
+
+Factorial of 5:
+
+5! = 5 × 4 × 3 × 2 × 1
+
+= 20 × 3 × 2 × 1
+
+= 60 × 2 × 1
+
+= 120
+
+Therefore,
+
+5! = 120 (decimal) = 78H
+
 
 ---
 
