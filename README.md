@@ -55,15 +55,8 @@ END
 ```
 OUTPUT
 
-OUTPUT Input: 05H Output: 78H
+<img width="972" height="589" alt="image" src="https://github.com/user-attachments/assets/c3cbba15-0223-45ae-932b-51ce499b06b1" />
 
-In Keil, after execution:
-
-Memory Location 4500H : 05H Memory Location 4501H : 78H
-
-So,
-
-5! = 120 (decimal) = 78H
 
 
 ---
